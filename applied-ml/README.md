@@ -67,7 +67,7 @@ This journey provided practical experience with a modern ML tech stack:
 | **Development** | Jupyter, Git, Pipenv |
 
 ## Repository Structure
-![alt text](image.png)
+![Repository image](images/image.png)
 
 
 ## Progress
